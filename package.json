@@ -38,12 +38,8 @@
     "url": "https://opencollective.com/react-native-elements",
     "logo": "https://opencollective.com/react-native-elements/logo.txt"
   },
-  "peerDependencies": {
-    "@react-native-elements/base": "^4.0.0-rc.0"
-  },
-  "devDependencies": {
-    "@react-native-elements/base": "^4.0.0-rc.0"
-  },
+  "peerDependencies": {},
+  "devDependencies": {},
   "jest": {
     "displayName": "@react-native-elements/themed",
     "preset": "react-native",
