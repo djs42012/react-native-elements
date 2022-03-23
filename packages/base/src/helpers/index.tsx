@@ -10,7 +10,7 @@ const Screen = Dimensions.get('window');
 const ScreenWidth = Screen.width;
 const ScreenHeight = Screen.height;
 const isIOS = Platform.OS === 'ios';
-
+//! wtf is this 
 export type RneFunctionComponent<T> = React.FunctionComponent<
   T & {
     theme?: {
